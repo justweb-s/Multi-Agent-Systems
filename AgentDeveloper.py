@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 # Configura il client OpenAI
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="La-TUA-API")
 
 # Agenti specializzati
 class ArchitectAgent:
