@@ -177,7 +177,7 @@ class SupervisorAgent:
             "documentation": documentation
         }
 
-# Esecuzione del sistema
+# Esecuzione del sistema##
 if __name__ == "__main__":
     supervisor = SupervisorAgent()
     
